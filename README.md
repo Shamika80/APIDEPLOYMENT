@@ -1,6 +1,3 @@
-OK, here's a README file that you can add to the root directory of your project. It provides a good overview of your Flask API, how to set it up, and how to use it.
-
-Markdown
 # Sum API with PostgreSQL and Render Deployment
 
 This Flask application provides a simple API for calculating sums and storing them in a PostgreSQL database. It also includes functionality to retrieve sums filtered by their results. The API is deployed on Render using GitHub Actions for continuous deployment.
